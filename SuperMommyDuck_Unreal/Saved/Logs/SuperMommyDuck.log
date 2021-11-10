@@ -1466,3 +1466,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-07.43.02:596][720]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.10-07.43.02:596][720]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
 [2021.11.10-07.43.02:596][720]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.47.02:536][972]BlueprintLog: New page: Compile DuckAnimationBP
+[2021.11.10-07.47.02:588][972]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.02:588][972]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to jump  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.02:633][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.10-07.47.56:597][721]BlueprintLog: New page: Compile DuckAnimationBP
+[2021.11.10-07.47.56:606][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:607][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to jump  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:607][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] walk to jump  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:607][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] jump to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:608][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:609][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] jump to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:682][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.10-07.51.30:062][120]LogSlate: Window 'DuckAnimationBP' being destroyed
+[2021.11.10-07.51.30:078][120]LogSlate: Window 'DuckAnimationBP' being destroyed
+[2021.11.10-07.51.30:126][120]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.51.30:127][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.51.30:147][120]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.51.30:148][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.51.30:449][120]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.51.30:449][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.51.34:047][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.10-07.51.36:082][221]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-07.51.36:219][221]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/DuckAnimationBP.DuckAnimationBP
+[2021.11.10-07.51.42:529][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.11.10-07.51.42:850][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.10-07.51.42:873][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.10-07.52.13:425][351]LogSlate: Window 'New Level' being destroyed
+[2021.11.10-07.52.20:462][618]LogObjectTools: Deleting 1 worlds: /Game/Map/test.test
+[2021.11.10-07.52.20:463][618]LogObjectTools: Currently 11 active worlds: /Game/Map/map01_sewer.map01_sewer, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_7, /Engine/Transient.World_9, /Engine/Transient.World_12, /Engine/Transient.World_14, /Engine/Transient.World_21, /Engine/Transient.World_25
+[2021.11.10-07.52.20:601][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.11.10-07.52.22:061][618]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-07.52.22:159][618]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.52.22:159][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.52.22:462][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.11.10-07.52.22:546][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.10-07.52.22:571][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.11.10-07.52.22:605][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.10-07.53.13:076][537]LogRenderer: Reallocating scene render targets to support 1540x828 Format 10 NumSamples 1 (Frame:32918).
+[2021.11.10-07.53.13:569][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sewer_level_sp_pPlane16)
+[2021.11.10-07.53.14:721][597]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.53.14:728][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.53.14:729][597]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:53:14 PM)
+[2021.11.10-07.53.14:729][597]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.53.14:764][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035268s)
+[2021.11.10-07.53.14:766][597]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.53.14:766][597]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2021.11.10-07.53.14:766][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.037617s)
+[2021.11.10-07.53.14:796][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.10-07.53.14:801][597]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.53.14:802][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.53.14:803][597]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.53.14:803][597]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.53.14:849][597]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.53.14:850][597]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.53.14:920][597]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.53.14:921][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.53.14:921][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.53.14:921][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.53.14:922][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.53.14:922][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.53.14:922][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.53.14:949][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.53.14:949][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.53.14:949][597]LogInit: FAudioDevice initialized.
+[2021.11.10-07.53.14:949][597]LogAudio: Display: Audio Device (ID: 9) registered with world 'map01_sewer'.
+[2021.11.10-07.53.14:957][597]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.53.14:966][597]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.53.14
+[2021.11.10-07.53.14:967][597]LogWorld: Bringing up level for play took: 0.008292
+[2021.11.10-07.53.14:967][597]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.11.10-07.53.14:970][597]PIE: Server logged in
+[2021.11.10-07.53.14:971][597]PIE: Play in editor total start time 0.244 seconds.
+[2021.11.10-07.53.53:228][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.53.53:228][112]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.53.53:229][112]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.53.53:232][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.53.53:253][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.53.53:298][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.53.53:317][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.53.53:318][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.53.53:319][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.53.53:347][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.53.53:351][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.10-07.53.53:361][113]LogPlayLevel: Display: Destroying online subsystem :Context_34
