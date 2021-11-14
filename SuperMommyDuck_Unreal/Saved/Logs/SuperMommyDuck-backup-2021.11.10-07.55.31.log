@@ -1,0 +1,1559 @@
+﻿Log file open, 11/10/21 14:02:08
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SuperMommyDuck
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.669762
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.10-07.02.11:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.10-07.02.11:092][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.10-07.02.11:093][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.10-07.02.11:093][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.10-07.02.11:093][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.10-07.02.11:093][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.10-07.02.11:093][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.10-07.02.11:093][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:093][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:140][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-07.02.11:140][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-07.02.11:141][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-07.02.11:142][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-07.02.11:143][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-07.02.11:144][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-07.02.11:145][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-07.02.11:146][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-07.02.11:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-07.02.11:148][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-07.02.11:149][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:149][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-07.02.11:149][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-07.02.11:149][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-07.02.11:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-07.02.11:150][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-07.02.11:151][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-07.02.11:151][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.10-07.02.11:152][  0]LogHAL: Display: Platform has ~ 8 GB [8420917248 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.10-07.02.11:152][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.10-07.02.11:153][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:153][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.10-07.02.11:153][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.10-07.02.11:153][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:153][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.10-07.02.11:153][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:153][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.10-07.02.11:154][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.10-07.02.11:154][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.10-07.02.11:154][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.10-07.02.11:154][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.10-07.02.11:154][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.10-07.02.11:155][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.10-07.02.11:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.10-07.02.11:155][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.10-07.02.11:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.10-07.02.11:158][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.10-07.02.11:159][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Scalability.ini]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.10-07.02.11:160][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.10-07.02.11:161][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.10-07.02.11:161][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.10-07.02.11:161][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.10-07.02.11:161][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Engine.ini]
+[2021.11.10-07.02.11:161][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Config/Windows/Editor.ini]
+[2021.11.10-07.02.11:161][  0]LogInit: Computer: DESKTOP-0APLNH5
+[2021.11.10-07.02.11:161][  0]LogInit: User: TheHa
+[2021.11.10-07.02.11:161][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.10-07.02.11:161][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.10-07.02.11:161][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2021.11.10-07.02.11:161][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.10-07.02.11:161][  0]LogMemory: Process Physical Memory: 137.29 MB used, 137.30 MB peak
+[2021.11.10-07.02.11:161][  0]LogMemory: Process Virtual Memory: 110.46 MB used, 110.46 MB peak
+[2021.11.10-07.02.11:161][  0]LogMemory: Physical Memory: 6424.44 MB used,  1606.37 MB free, 8030.81 MB total
+[2021.11.10-07.02.11:161][  0]LogMemory: Virtual Memory: 134208128.00 MB used,  9596.71 MB free, 134217728.00 MB total
+[2021.11.10-07.02.11:190][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.10-07.02.11:284][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.10-07.02.11:287][  0]LogInit: Using OS detected language (en-US).
+[2021.11.10-07.02.11:287][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.10-07.02.11:294][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.10-07.02.11:915][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.10-07.02.11:931][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.10-07.02.11:949][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.10-07.02.11:949][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.10-07.02.12:514][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-07.02.12:514][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.10-07.02.12:514][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.10-07.02.12:515][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.10-07.02.12:796][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2021.11.10-07.02.12:796][  0]LogD3D11RHI:       4055/0/4015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.10-07.02.12:811][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.11.10-07.02.12:811][  0]LogD3D11RHI:       128/0/4015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.11.10-07.02.12:815][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.10-07.02.12:815][  0]LogD3D11RHI:       0/0/4015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.10-07.02.12:815][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.10-07.02.12:836][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.10-07.02.12:836][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2021.11.10-07.02.12:836][  0]LogWindows: EnumDisplayDevices:
+[2021.11.10-07.02.12:836][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.11.10-07.02.12:837][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.11.10-07.02.12:837][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.11.10-07.02.12:838][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.11.10-07.02.12:838][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2021.11.10-07.02.12:838][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.11.10-07.02.12:838][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.11.10-07.02.12:838][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2021.11.10-07.02.13:022][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.10-07.02.13:023][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.10-07.02.13:065][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.10-07.02.13:074][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.10-07.02.14:200][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.10-07.02.14:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.10-07.02.14:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.10-07.02.14:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.10-07.02.14:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.10-07.02.14:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.10-07.02.14:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.10-07.02.14:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.10-07.02.14:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.10-07.02.14:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.10-07.02.14:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.10-07.02.14:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.10-07.02.14:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.10-07.02.14:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.10-07.02.14:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.10-07.02.14:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.10-07.02.14:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.10-07.02.14:939][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.10-07.02.14:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.10-07.02.15:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.10-07.02.15:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.10-07.02.15:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.10-07.02.15:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.10-07.02.15:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.10-07.02.15:143][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.10-07.02.15:143][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.10-07.02.15:171][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.10-07.02.15:401][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.10-07.02.15:402][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Intermediate/Shaders/WorkingDirectory/3492/).
+[2021.11.10-07.02.15:402][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TheHa/AppData/Local/Temp/UnrealShaderWorkingDir/0EB3207243C9157AE758929AB10952A5/'.
+[2021.11.10-07.02.15:402][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.10-07.02.15:402][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.10-07.02.17:603][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.10-07.02.17:694][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/TheHa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-07.02.17:695][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TheHa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.10-07.02.17:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.10-07.02.17:695][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.10-07.02.17:695][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-07.02.17:695][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.10-07.02.17:712][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.10-07.02.17:713][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-07.02.17:713][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.10-07.02.17:724][  0]LogDerivedDataCache: Speed tests for C:/Users/TheHa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.10-07.02.17:724][  0]LogDerivedDataCache: Display: Performance to C:/Users/TheHa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=958.84MBs, RandomWriteSpeed=98.73MBs. Assigned SpeedClass 'Local'
+[2021.11.10-07.02.17:734][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TheHa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.10-07.02.17:735][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.10-07.02.17:735][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.10-07.02.17:832][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.10-07.02.17:833][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-07.02.17:870][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2021.11.10-07.02.18:276][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-07.02.18:277][  0]LogInit: Active device profile: [00000272EF08A300][00000272D3E02DC0 49] Windows
+[2021.11.10-07.02.18:277][  0]LogInit: Profiles: [00000272EF08A300][00000272D3E02DC0 49] Windows, [00000272EF036D00][00000272D3E0AF40 49] WindowsNoEditor, [00000272EF089200][00000272D3E0F0C0 49] WindowsServer, [00000272EF037D00][00000272D3E13240 49] WindowsClient, [00000272EF088200][00000272D3E173C0 49] IOS, [00000272EF034B00][00000272D3E1B540 49] iPadAir, [00000272EF08AF00][00000272D3E07680 49] iPadAir2, [00000272EEFDA200][00000272D3E238C0 49] IPadPro, [00000272EEFDA300][00000272D3E1F900 49] iPadAir3, [00000272EF035900][00000272D3E2BA80 49] iPadAir4, [00000272EEFDBA00][00000272D3E2FC00 49] iPadMini2, [00000272EF034300][00000272D3E320C0 49] iPadMini3, [00000272EEFD9700][00000272D3E36240 49] iPadMini4, [00000272EF036800][00000272D3E3A3C0 49] iPadMini5, [00000272EEFE5B00][00000272D3E42680 49] iPhone6, [00000272EEFE5C00][00000272D3E3E6C0 49] iPodTouch6, [00000272EF08A000][00000272D3E4A980 49] iPhone7, [00000272EF089300][00000272D3E469C0 49] iPodTouch7, [00000272EEFE6C00][00000272D3E4EB40 49] iPhone5S, [00000272EF08A900][00000272EE7A4CC0 49] iPhone6Plus, [00000272EEFE5F00][00000272EE7A8E40 49] iPhone6S, [00000272EF08B200][00000272EE7ACFC0 49] iPhone6SPlus, [00000272EEFE5900][00000272EE7B1140 49] iPhone7Plus, [00000272EF089000][00000272EE7B52C0 49] iPhoneSE, [00000272EEFE7100][00000272EE7B9440 49] iPhone8, [00000272EF089500][00000272EE7BD5C0 49] iPhone8Plus, [00000272EEFE6A00][00000272D3E27700 49] iPhoneX, [00000272EF088300][00000272EE7C1840 49] iPhoneXS, [00000272EEFE6700][00000272EE7C5980 49] iPhoneXSMax, [00000272EF089900][00000272EE7C9AC0 49] iPhoneXR, [00000272EF037C00][00000272EE7D1C40 49] iPhone11, [00000272EEFE4C00][00000272EE7D4100 49] iPhone11Pro, [00000272EF036E00][00000272EE7D8280 49] iPhone11ProMax, [00000272EEFE7800][00000272EE7DC400 49] iPhoneSE2, [00000272EF035A00][00000272EE7E0580 49] iPhone12Mini, [00000272EEFE6500][00000272EE7E4700 49] iPhone12, [00000272EF034D00][00000272EE7E8880 49] iPhone12Pro, [00000272EEFE7900][00000272EE7ECA00 49] iPhone12ProMax, [00000272EF035100][00000272EE7F0B80 49] iPadPro105, [00000272EEFE4A00][00000272EE7F4D00 49] iPadPro129, [00000272EF037600][00000272EE7F8E80 49] iPadPro97, [00000272EF089E00][00000272EE7FD000 49] iPadPro2_129, [00000272EF036100][00000272EE801180 49] iPad5, [00000272EF08B100][00000272EE805300 49] iPad6, [00000272EF036200][00000272EE809480 49] iPad7, [00000272EF089100][00000272EE80D600 49] iPad8, [00000272EF034800][00000272EE7CD740 49] iPadPro11, [00000272EF08AB00][00000272E3215880 49] iPadPro2_11, [00000272EF037200][00000272E32199C0 49] iPadPro3_129, [00000272EF088D00][00000272E321DB00 49] iPadPro4_129, [00000272EF035C00][00000272E3225C80 49] AppleTV, [00000272EF08A200][00000272E3228140 49] AppleTV4K, [00000272EF036C00][00000272E32382C0 49] TVOS, [00000272EF08BA00][00000272EF848440 49] Mac, [00000272EF035D00][00000272EF84C5C0 49] MacClient, [00000272EF089D00][00000272EF850740 49] MacNoEditor, [00000272EF036700][00000272EF8548C0 49] MacServer, [00000272EF08AC00][00000272EF858A40 49] Linux, [00000272EF034500][00000272EF87EBC0 49] LinuxAArch64, [00000272EF08A800][00000272EF886D40 49] LinuxNoEditor, [00000272EF035000][00000272EF88AEC0 49] LinuxAArch64NoEditor, [00000272EF08AD00][00000272EF88F040 49] LinuxClient, [00000272EF035200][00000272EF89B1C0 49] LinuxAArch64Client, [00000272EF08BD00][00000272EF89F340 49] LinuxServer, [00000272EF037000][00000272EF8A34C0 49] LinuxAArch64Server, [00000272EF08B800][00000272EF8A7640 49] Android, [00000272EF037900][00000272EF8B77C0 49] Android_Low, [00000272EF08B600][00000272E3221900 49] Android_Mid, [00000272EF034200][00000272EF8BBA40 49] Android_High, [00000272EF089600][00000272EF8BFB80 49] Android_Default, [00000272EF034E00][00000272EF8C7D00 49] Android_Adreno4xx, [00000272EF089400][00000272EF8CA1C0 49] Android_Adreno5xx_Low, [00000272EF035F00][00000272EF8CE340 49] Android_Adreno5xx, [00000272EF088C00][00000272EF8D24C0 49] Android_Adreno6xx, [00000272EF034700][00000272EF8D6640 49] Android_Adreno6xx_Vulkan, [00000272EF08B400][00000272EF8DA7C0 49] Android_Mali_T6xx, [00000272EF035300][00000272EF8DE940 49] Android_Mali_T7xx, [00000272EF08A700][00000272EF8E2AC0 49] Android_Mali_T8xx, [00000272EF036300][00000272EF8E6C40 49] Android_Mali_G71, [00000272EF08B500][00000272EF8EADC0 49] Android_Mali_G72, [00000272EEFDAB00][00000272EF90EF40 49] Android_Mali_G72_Vulkan, [00000272EEFE4900][00000272EF9130C0 49] Android_Mali_G76, [00000272EEFD8500][00000272EF917240 49] Android_Mali_G76_Vulkan, [00000272EEFE5A00][00000272EF91B3C0 49] Android_Mali_G77, [00000272EEFDA800][00000272EF91F540 49] Android_Mali_G77_Vulkan, [00000272EEFE7B00][00000272EF9236C0 49] Android_Vulkan_SM5, [00000272EEFD8600][00000272EF927840 49] Android_PowerVR_G6xxx, [00000272EEFE6900][00000272EF8C3980 49] Android_PowerVR_GT7xxx, [00000272EEFD8400][00000272EF92BAC0 49] Android_PowerVR_GE8xxx, [00000272EEFE4B00][00000272EF95BC00 49] Android_PowerVR_GM9xxx, [00000272EEFD9400][00000272EF9620C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000272EEFE6800][00000272EF966240 49] Android_TegraK1, [00000272EEFDB300][00000272EF96A3C0 49] Android_Unknown_Vulkan, [00000272EEFE7200][00000272EF96E540 49] Lumin, [00000272EEFD9A00][00000272EF9726C0 49] Lumin_Desktop, [00000272EEFE5400][00000272EF976840 49] HoloLens, 
+[2021.11.10-07.02.18:430][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.10-07.02.18:430][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.10-07.02.18:430][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.10-07.02.18:430][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.10-07.02.18:430][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.10-07.02.18:463][  0]LogNetVersion: SuperMommyDuck 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 341849353)
+[2021.11.10-07.02.19:146][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.10-07.02.19:233][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.085854 seconds
+[2021.11.10-07.02.19:242][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.10-07.02.19:242][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.10-07.02.19:242][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.10-07.02.19:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.10-07.02.19:710][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.10-07.02.19:849][  0]SourceControl: Source control is disabled
+[2021.11.10-07.02.19:850][  0]SourceControl: Source control is disabled
+[2021.11.10-07.02.19:853][  0]SourceControl: Source control is disabled
+[2021.11.10-07.02.19:861][  0]SourceControl: Source control is disabled
+[2021.11.10-07.02.19:870][  0]SourceControl: Source control is disabled
+[2021.11.10-07.02.19:874][  0]LogUProjectInfo: Found projects:
+[2021.11.10-07.02.20:168][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.10-07.02.20:187][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-07.02.20:187][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.10-07.02.20:251][  0]LogCollectionManager: Loaded 0 collections in 0.000893 seconds
+[2021.11.10-07.02.20:281][  0]LogFileCache: Scanning file cache for directory 'D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Collections/' took 0.00s
+[2021.11.10-07.02.20:281][  0]LogFileCache: Scanning file cache for directory 'D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Developers/TheHa/Collections/' took 0.00s
+[2021.11.10-07.02.20:281][  0]LogFileCache: Scanning file cache for directory 'D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Collections/' took 0.00s
+[2021.11.10-07.02.20:281][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-07.02.20:295][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.10-07.02.20:295][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.10-07.02.20:357][  0]LogEngine: Initializing Engine...
+[2021.11.10-07.02.20:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-07.02.20:358][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.10-07.02.20:359][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.10-07.02.20:657][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.10-07.02.20:672][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.10-07.02.20:720][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.10-07.02.20:727][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.10-07.02.20:727][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.02.20:727][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.02.20:727][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.02.20:728][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.02.20:728][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.02.20:754][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.02.20:754][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.02.20:837][  0]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.02.20:845][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.02.20:848][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.02.20:848][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.02.20:850][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.02.20:850][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.02.20:850][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.02.20:851][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.02.20:851][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.02.20:851][  0]LogInit: FAudioDevice initialized.
+[2021.11.10-07.02.20:852][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.10-07.02.20:852][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.10-07.02.21:098][  0]LogDerivedDataCache: Saved boot cache 0.25s 77MB C:/Users/TheHa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.10-07.02.21:100][  0]LogInit: Texture streaming: Enabled
+[2021.11.10-07.02.21:121][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.10-07.02.21:125][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.10-07.02.21:125][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.10-07.02.21:148][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.10-07.02.21:188][  0]LogInit: Transaction tracking system initialized
+[2021.11.10-07.02.21:216][  0]BlueprintLog: New page: Editor Load
+[2021.11.10-07.02.21:299][  0]LocalizationService: Localization service is disabled
+[2021.11.10-07.02.21:327][  0]TimingProfiler: Initialize
+[2021.11.10-07.02.21:327][  0]TimingProfiler: OnSessionChanged
+[2021.11.10-07.02.21:327][  0]LoadingProfiler: Initialize
+[2021.11.10-07.02.21:327][  0]LoadingProfiler: OnSessionChanged
+[2021.11.10-07.02.21:327][  0]NetworkingProfiler: Initialize
+[2021.11.10-07.02.21:327][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.10-07.02.21:327][  0]MemoryProfiler: Initialize
+[2021.11.10-07.02.21:327][  0]MemoryProfiler: OnSessionChanged
+[2021.11.10-07.02.21:603][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.10-07.02.21:603][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.10-07.02.21:939][  0]LogFileCache: Scanning file cache for directory 'D:/Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/' took 0.01s
+[2021.11.10-07.02.22:440][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.10-07.02.22:445][  0]SourceControl: Source control is disabled
+[2021.11.10-07.02.22:445][  0]LogUnrealEdMisc: Loading editor; pre map load, took 15.661
+[2021.11.10-07.02.22:445][  0]Cmd: MAP LOAD FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-07.02.22:540][  0]LightingResults: New page: Lighting Build
+[2021.11.10-07.02.22:545][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.02.22:546][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.02.22:546][  0]MapCheck: New page: Map Check
+[2021.11.10-07.02.22:546][  0]LightingResults: New page: Lighting Build
+[2021.11.10-07.02.22:587][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.10-07.02.25:376][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.11.10-07.02.25:977][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.11.10-07.02.25:978][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.10-07.02.25:991][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2021.11.10-07.02.26:009][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.11.10-07.02.26:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-07.02.26:011][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.598ms to complete.
+[2021.11.10-07.02.26:011][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.565
+[2021.11.10-07.02.26:016][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.231
+[2021.11.10-07.02.26:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.02.26:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.02.26:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.02.26:315][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.02.26:468][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0144 seconds. Added 3601 classes and 859 folders.
+[2021.11.10-07.02.26:552][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.11.10-07.02.26:623][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-07.02.26:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-07.02.26:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.11.10-07.02.26:635][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-07.02.26:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-07.02.26:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.10-07.02.26:650][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.10-07.02.26:650][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:650][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.10-07.02.26:650][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.10-07.02.26:743][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-07.02.26:743][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:743][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-07.02.26:743][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.11.10-07.02.26:746][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-07.02.26:747][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:747][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-07.02.26:747][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.10-07.02.26:750][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-07.02.26:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-07.02.26:750][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.10-07.02.26:752][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-07.02.26:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-07.02.26:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.11.10-07.02.26:754][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-07.02.26:754][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:754][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-07.02.26:754][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.11.10-07.02.26:757][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-07.02.26:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-07.02.26:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.11.10-07.02.26:759][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.10-07.02.26:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.10-07.02.26:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.11.10-07.02.26:787][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.10-07.02.26:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.10-07.02.26:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.11.10-07.02.26:789][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-07.02.26:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-07.02.26:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.11.10-07.02.26:791][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-07.02.26:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-07.02.26:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.11.10-07.02.26:793][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-07.02.26:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-07.02.26:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.11.10-07.02.26:795][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.10-07.02.26:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.10-07.02.26:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.11.10-07.02.26:796][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-07.02.26:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-07.02.26:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.11.10-07.02.26:798][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.10-07.02.26:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.10-07.02.26:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.11.10-07.02.26:799][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-07.02.26:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-07.02.26:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.11.10-07.02.26:800][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-07.02.26:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-07.02.26:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2021.11.10-07.02.26:841][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-07.02.26:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-07.02.26:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.11.10-07.02.26:853][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.10-07.02.26:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.10-07.02.26:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.11.10-07.02.26:855][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.10-07.02.26:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.10-07.02.26:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000132
+[2021.11.10-07.02.26:856][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.10-07.02.26:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.10-07.02.26:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2021.11.10-07.02.26:867][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.10-07.02.26:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.10-07.02.26:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2021.11.10-07.02.26:869][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.10-07.02.26:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.10-07.02.26:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2021.11.10-07.02.26:871][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.10-07.02.26:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.10-07.02.26:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.10-07.02.26:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2021.11.10-07.02.28:069][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.11.10-07.02.28:071][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.11.10-07.02.28:359][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.11.10-07.02.28:359][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.10-07.02.28:359][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.10-07.02.28:359][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.10-07.02.28:359][  0]LogLoad: (Engine Initialization) Total time: 21.57 seconds
+[2021.11.10-07.02.28:359][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.10-07.02.28:359][  0]LogInit: First time updating LLM stats...
+[2021.11.10-07.02.28:435][  0]LogAssetRegistry: Asset discovery search completed in 10.5676 seconds
+[2021.11.10-07.02.28:443][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2021.11.10-07.02.28:524][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.10-07.02.28:532][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.10-07.02.28:535][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.10-07.02.28:567][  0]LogSlate: Took 0.021933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.10-07.02.29:598][  0]LogRenderer: Reallocating scene render targets to support 960x320 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-07.02.29:598][  0]LogSlate: Took 0.030352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-07.02.30:152][  2]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-07.04.29:569][403]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-07.04.29:605][403]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-07.04.33:245][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.10-07.04.43:853][495]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.04.43:915][495]Cmd: MAP LOAD FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-07.04.43:915][495]LightingResults: New page: Lighting Build
+[2021.11.10-07.04.43:915][495]LoadErrors: New page: Loading map: map01_sewer.umap
+[2021.11.10-07.04.44:300][495]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.04.44:436][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.04.44:444][495]MapCheck: New page: Map Check
+[2021.11.10-07.04.44:444][495]LightingResults: New page: Lighting Build
+[2021.11.10-07.04.44:634][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.04.45:146][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.11.10-07.04.45:177][495]LogAudio: Display: Audio Device (ID: 1) registered with world 'map01_sewer'.
+[2021.11.10-07.04.45:986][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-07.04.45:986][495]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.04.46:184][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.10-07.04.46:265][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-07.04.46:265][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2021.11.10-07.04.46:265][495]LogFileHelpers: Loading map 'map01_sewer' took 2.351
+[2021.11.10-07.05.07:294][872]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Github/SuperMommyDuck_Project/sewer_assets/Duck.FBX)
+[2021.11.10-07.05.07:948][872]LogFbx: Loading FBX Scene from ../../../../Github/SuperMommyDuck_Project/sewer_assets/Duck.FBX
+[2021.11.10-07.05.08:101][872]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.10-07.06.21:824][872]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.10-07.06.22:469][872]LogTexture: Display: Building textures: body (AutoDXT, 800X800)
+[2021.11.10-07.06.22:638][872]LogTexture: Display: Building textures: lip (BGRA8, 215X248)
+[2021.11.10-07.06.22:664][872]LogTexture: Display: Building textures: foot (BGRA8, 204X245)
+[2021.11.10-07.06.22:679][872]LogTexture: Display: Building textures: eye (AutoDXT, 188X248)
+[2021.11.10-07.06.22:685][872]LogFbx: Triangulating skeletal mesh Box001
+[2021.11.10-07.06.23:009][872]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.11.10-07.06.23:396][872]LogSkeletalMesh: Section 0: Material=0, 2134 triangles
+[2021.11.10-07.06.23:396][872]LogSkeletalMesh: Section 1: Material=1, 1046 triangles
+[2021.11.10-07.06.23:396][872]LogSkeletalMesh: Section 2: Material=2, 2128 triangles
+[2021.11.10-07.06.23:397][872]LogSkeletalMesh: Section 3: Material=3, 1728 triangles
+[2021.11.10-07.06.23:397][872]LogSkeletalMesh: Section 4: Material=4, 612 triangles
+[2021.11.10-07.06.23:397][872]LogSkeletalMesh: Section 5: Material=5, 36 triangles
+[2021.11.10-07.06.23:410][872]LogSkeletalMesh: Building Skeletal Mesh Duck...
+[2021.11.10-07.06.23:618][872]LogSkeletalMesh: Section 0: Material=0, 2134 triangles
+[2021.11.10-07.06.23:618][872]LogSkeletalMesh: Section 1: Material=1, 1046 triangles
+[2021.11.10-07.06.23:618][872]LogSkeletalMesh: Section 2: Material=2, 2128 triangles
+[2021.11.10-07.06.23:618][872]LogSkeletalMesh: Section 3: Material=3, 1728 triangles
+[2021.11.10-07.06.23:618][872]LogSkeletalMesh: Section 4: Material=4, 612 triangles
+[2021.11.10-07.06.23:618][872]LogSkeletalMesh: Section 5: Material=5, 36 triangles
+[2021.11.10-07.06.23:669][872]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/Assets/Duck.Duck
+[2021.11.10-07.06.23:841][872]LogMaterial: Display: Material /Game/Assets/Material__133.Material__133 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.10-07.06.23:860][872]LogMaterial: Display: Missing cached shader map for material Material__133, compiling. 
+[2021.11.10-07.06.24:192][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.11.10-07.06.24:192][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.11.10-07.06.24:192][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.11.10-07.06.24:192][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.11.10-07.06.24:192][872]LogMaterial: Display: Material /Game/Assets/Material__134.Material__134 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.10-07.06.24:197][872]LogMaterial: Display: Missing cached shader map for material Material__134, compiling. 
+[2021.11.10-07.06.24:212][872]LogMaterial: Display: Material /Game/Assets/Material__146.Material__146 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.10-07.06.24:214][872]LogMaterial: Display: Missing cached shader map for material Material__146, compiling. 
+[2021.11.10-07.06.24:229][872]LogMaterial: Display: Material /Game/Assets/Material__27.Material__27 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.10-07.06.24:231][872]LogMaterial: Display: Missing cached shader map for material Material__27, compiling. 
+[2021.11.10-07.06.24:247][872]LogMaterial: Display: Material /Game/Assets/Material__28.Material__28 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.10-07.06.24:248][872]LogMaterial: Display: Missing cached shader map for material Material__28, compiling. 
+[2021.11.10-07.06.24:265][872]LogMaterial: Display: Material /Game/Assets/Material__75.Material__75 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.10-07.06.24:265][872]LogMaterial: Display: Missing cached shader map for material Material__75, compiling. 
+[2021.11.10-07.06.24:282][872]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.06.24:282][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.06.24:607][872]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.10-07.06.24:607][872]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.11.10-07.06.26:532][872]LogSlate: Took 0.066619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.10-07.06.31:670][961]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-07.06.31:694][961]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-07.06.35:303][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 120
+[2021.11.10-07.06.44:492][169]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2021.11.10-07.06.45:542][187]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2021.11.10-07.06.48:671][234]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 90
+[2021.11.10-07.06.54:060][322]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.06.54:505][322]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2021.11.10-07.06.55:297][322]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2021.11.10-07.06.55:702][322]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.06.55:910][322]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2021.11.10-07.06.59:673][322]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2021.11.10-07.06.59:673][322]LogSlate: Took 0.014693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.10-07.06.59:799][323]LogRenderer: Reallocating scene render targets to support 960x648 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-07.07.00:170][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2021.11.10-07.07.00:963][329]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2021.11.10-07.07.14:771][531]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2021.11.10-07.07.20:544][624]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.11.10-07.07.26:772][712]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2021.11.10-07.07.36:234][860]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.11.10-07.07.42:692][957]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.11.10-07.07.46:339][ 13]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.11.10-07.07.46:585][ 15]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Duck_Skeleton.Duck_Skeleton
+[2021.11.10-07.07.46:598][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.07.46:979][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.11.10-07.07.47:515][ 17]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.11.10-07.07.50:745][ 63]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.11.10-07.07.51:299][ 73]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.11.10-07.08.20:343][746]LogSlate: Window 'Duck_Skeleton' being destroyed
+[2021.11.10-07.08.20:352][746]LogSlate: Window 'Duck_Skeleton' being destroyed
+[2021.11.10-07.08.20:364][746]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.08.20:365][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.08.20:958][746]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.08.20:958][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.08.27:017][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.11.10-07.08.28:103][911]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 126 classes and 0 folders.
+[2021.11.10-07.08.30:645][911]LogSlate: Took 0.012283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-07.08.33:595][969]LogRenderer: Reallocating scene render targets to support 960x664 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-07.08.42:076][126]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Duck_Skeleton, removing AnimBP from actor.
+[2021.11.10-07.08.42:079][126]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Duck_Skeleton, removing AnimBP from actor.
+[2021.11.10-07.08.42:079][126]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Duck_Skeleton, removing AnimBP from actor.
+[2021.11.10-07.08.45:218][193]BlueprintLog: New page: Compile CharacterClass
+[2021.11.10-07.08.45:596][193]LogUObjectHash: Compacting FUObjectHashTables data took   7.80ms
+[2021.11.10-07.08.46:825][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CharacterClass" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset" SILENT=true
+[2021.11.10-07.08.47:179][216]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/CharacterClass3036A0A345DB081B5A4A2391B41FAF57.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset'
+[2021.11.10-07.08.47:217][216]AssetCheck: New page: Asset Save: CharacterClass
+[2021.11.10-07.08.47:217][216]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.11.10-07.08.49:754][285]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.08.50:066][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.08.50:077][285]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:08:50 PM)
+[2021.11.10-07.08.50:227][285]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.10-07.08.50:230][285]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.10-07.08.50:269][285]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.08.50:348][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069337s)
+[2021.11.10-07.08.50:368][285]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.08.50:385][285]LogPlayLevel: PIE: World Init took: (0.036929s)
+[2021.11.10-07.08.50:386][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.116146s)
+[2021.11.10-07.08.50:410][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.11.10-07.08.50:478][285]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.10-07.08.50:478][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.08.50:478][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.08.50:479][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.08.50:479][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.08.50:479][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.08.50:479][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.08.50:479][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.08.50:479][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.08.50:479][285]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.08.50:479][285]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.08.50:504][285]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.08.50:504][285]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.08.50:522][285]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.08.50:523][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.08.50:523][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.08.50:523][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.08.50:523][285]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.08.50:523][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.08.50:523][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.08.50:547][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.08.50:547][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.08.50:547][285]LogInit: FAudioDevice initialized.
+[2021.11.10-07.08.50:547][285]LogAudio: Display: Audio Device (ID: 2) registered with world 'map01_sewer'.
+[2021.11.10-07.08.50:575][285]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.08.50:583][285]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.08.50
+[2021.11.10-07.08.50:611][285]LogWorld: Bringing up level for play took: 0.033644
+[2021.11.10-07.08.50:629][285]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.10-07.08.50:955][285]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.10-07.08.51:175][285]PIE: Server logged in
+[2021.11.10-07.08.51:188][285]PIE: Play in editor total start time 1.401 seconds.
+[2021.11.10-07.09.18:366][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.09.18:366][284]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.09.18:367][284]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.09.18:372][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.09.18:503][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.09.18:517][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.09.18:565][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.09.18:764][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.09.18:768][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.09.18:861][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.09.19:018][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.11.10-07.09.19:052][285]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.10-07.09.21:812][375]LogRenderer: Reallocating scene render targets to support 1448x748 Format 10 NumSamples 1 (Frame:2102).
+[2021.11.10-07.09.21:961][376]LogRenderer: Reallocating scene render targets to support 1536x824 Format 10 NumSamples 1 (Frame:2105).
+[2021.11.10-07.09.23:339][423]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.09.23:384][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.09.23:385][423]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:09:23 PM)
+[2021.11.10-07.09.23:385][423]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.09.23:404][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019032s)
+[2021.11.10-07.09.23:405][423]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.09.23:407][423]LogPlayLevel: PIE: World Init took: (0.003005s)
+[2021.11.10-07.09.23:408][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.022755s)
+[2021.11.10-07.09.23:538][423]LogUObjectHash: Compacting FUObjectHashTables data took   9.89ms
+[2021.11.10-07.09.23:540][423]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.09.23:541][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.09.23:541][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.09.23:543][423]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.09.23:543][423]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.09.23:547][423]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.09.23:548][423]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.09.23:567][423]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.09.23:567][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.09.23:567][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.09.23:567][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.09.23:568][423]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.09.23:568][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.09.23:568][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.09.23:590][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.09.23:590][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.09.23:590][423]LogInit: FAudioDevice initialized.
+[2021.11.10-07.09.23:590][423]LogAudio: Display: Audio Device (ID: 3) registered with world 'map01_sewer'.
+[2021.11.10-07.09.23:608][423]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.09.23:616][423]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.09.23
+[2021.11.10-07.09.23:616][423]LogWorld: Bringing up level for play took: 0.006688
+[2021.11.10-07.09.23:616][423]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.11.10-07.09.23:620][423]PIE: Server logged in
+[2021.11.10-07.09.23:622][423]PIE: Play in editor total start time 0.238 seconds.
+[2021.11.10-07.11.09:263][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.11.09:263][274]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.11.09:264][274]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.11.09:265][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.11.09:350][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.11.09:355][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.11.09:385][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.11.09:385][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.11.09:386][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.11.09:415][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.11.09:420][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.11.10-07.11.09:448][275]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.11.10-07.14.04:030][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sewer_level_sp_pPlane14)
+[2021.11.10-07.14.14:394][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CharacterClass" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset" SILENT=true
+[2021.11.10-07.14.14:413][535]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/CharacterClass03CB2F98427662C0A538DD9D7F58DED4.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset'
+[2021.11.10-07.14.14:475][535]AssetCheck: New page: Asset Save: CharacterClass
+[2021.11.10-07.14.14:475][535]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.11.10-07.14.25:542][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CharacterClass" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset" SILENT=true
+[2021.11.10-07.14.25:557][782]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/CharacterClassB0B5898C49C0E6F0CE5758A9C7DEC9A4.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset'
+[2021.11.10-07.14.25:584][782]AssetCheck: New page: Asset Save: CharacterClass
+[2021.11.10-07.14.25:584][782]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.11.10-07.14.38:286][ 73]LogSlate: Window 'CharacterClass' being destroyed
+[2021.11.10-07.14.38:337][ 73]LogSlate: Window 'CharacterClass' being destroyed
+[2021.11.10-07.14.38:345][ 73]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.14.38:346][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.16.31:741][939]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Assets/Duck_PhysicsAsset.Duck_PhysicsAsset
+[2021.11.10-07.16.32:206][939]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 8 classes and 3 folders.
+[2021.11.10-07.16.32:372][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.16.43:755][152]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.16.43:766][152]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.17.04:608][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Duck" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset" SILENT=true
+[2021.11.10-07.17.04:784][593]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/DuckF9E8A772444C38FA3E8E649474E2071D.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset'
+[2021.11.10-07.17.04:830][593]AssetCheck: New page: Asset Save: Duck
+[2021.11.10-07.17.04:830][593]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.17.09:117][718]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.17.09:129][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.17.09:130][718]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:17:09 PM)
+[2021.11.10-07.17.09:130][718]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.17.09:158][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027700s)
+[2021.11.10-07.17.09:163][718]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.17.09:165][718]LogPlayLevel: PIE: World Init took: (0.007578s)
+[2021.11.10-07.17.09:166][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.035821s)
+[2021.11.10-07.17.09:316][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.11.10-07.17.09:322][718]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.17.09:322][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.17.09:322][718]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.17.09:322][718]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.17.09:326][718]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.17.09:326][718]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.17.09:343][718]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.17.09:344][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.17.09:344][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.17.09:344][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.17.09:344][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.17.09:344][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.17.09:344][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.17.09:367][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.17.09:367][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.17.09:367][718]LogInit: FAudioDevice initialized.
+[2021.11.10-07.17.09:367][718]LogAudio: Display: Audio Device (ID: 4) registered with world 'map01_sewer'.
+[2021.11.10-07.17.09:379][718]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.17.09:387][718]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.17.09
+[2021.11.10-07.17.09:387][718]LogWorld: Bringing up level for play took: 0.006556
+[2021.11.10-07.17.09:387][718]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.11.10-07.17.09:392][718]PIE: Server logged in
+[2021.11.10-07.17.09:392][718]PIE: Play in editor total start time 0.265 seconds.
+[2021.11.10-07.17.16:423][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.17.16:423][997]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.17.16:424][997]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.17.16:428][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.17.16:454][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.17.16:487][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.17.16:506][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.17.16:520][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.17.16:522][997]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.17.16:548][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.17.16:686][997]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.11.10-07.17.16:745][998]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.11.10-07.17.36:249][447]LogSlate: Window 'Save Asset As' being destroyed
+[2021.11.10-07.18.13:976][367]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Duck_Skeleton.Duck_Skeleton
+[2021.11.10-07.18.13:989][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.19.26:368][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Duck" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset" SILENT=true
+[2021.11.10-07.19.26:397][112]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Duck8CDAD4A3488C2A20EA9B0C964A17A20E.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset'
+[2021.11.10-07.19.26:429][112]AssetCheck: New page: Asset Save: Duck
+[2021.11.10-07.19.26:429][112]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.20.08:415][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Duck" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset" SILENT=true
+[2021.11.10-07.20.08:449][166]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Duck2DB0964242A2633B2FCA3C91236C3D69.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset'
+[2021.11.10-07.20.08:472][166]AssetCheck: New page: Asset Save: Duck
+[2021.11.10-07.20.08:472][166]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.20.11:284][238]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.10-07.20.11:399][238]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.22.06:164][172]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.11.10-07.22.06:169][172]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.11.10-07.22.06:169][172]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.22.06:169][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.22.06:384][172]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.22.06:384][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.22.06:462][172]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.22.06:462][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.22.06:574][172]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.22.06:574][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.22.06:585][172]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.22.06:585][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.22.06:675][172]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.22.06:675][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.22.28:550][871]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.22.28:555][871]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.22.41:393][235]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.11.10-07.22.57:968][666]BlueprintLog: New page: Compile CharacterClass
+[2021.11.10-07.22.58:119][666]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.11.10-07.22.59:081][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CharacterClass" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset" SILENT=true
+[2021.11.10-07.22.59:103][688]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/CharacterClass852CE5D4457FD1D55A4821ABD65D19CB.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset'
+[2021.11.10-07.22.59:122][688]AssetCheck: New page: Asset Save: CharacterClass
+[2021.11.10-07.22.59:122][688]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.11.10-07.23.09:538][  7]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.23.09:559][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.23.09:560][  7]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:23:09 PM)
+[2021.11.10-07.23.09:560][  7]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.23.09:584][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023662s)
+[2021.11.10-07.23.09:585][  7]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.23.09:586][  7]LogPlayLevel: PIE: World Init took: (0.001815s)
+[2021.11.10-07.23.09:586][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.025771s)
+[2021.11.10-07.23.09:612][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.11.10-07.23.09:614][  7]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.23.09:614][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.23.09:614][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.23.09:615][  7]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.23.09:615][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.23.09:617][  7]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.23.09:617][  7]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.23.09:642][  7]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.23.09:643][  7]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.23.09:643][  7]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.23.09:643][  7]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.23.09:643][  7]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.23.09:643][  7]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.23.09:643][  7]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.23.09:662][  7]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.23.09:662][  7]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.23.09:662][  7]LogInit: FAudioDevice initialized.
+[2021.11.10-07.23.09:663][  7]LogAudio: Display: Audio Device (ID: 5) registered with world 'map01_sewer'.
+[2021.11.10-07.23.09:685][  7]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.23.09:714][  7]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.23.09
+[2021.11.10-07.23.09:715][  7]LogWorld: Bringing up level for play took: 0.026716
+[2021.11.10-07.23.09:715][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.11.10-07.23.09:721][  7]PIE: Server logged in
+[2021.11.10-07.23.09:722][  7]PIE: Play in editor total start time 0.169 seconds.
+[2021.11.10-07.24.02:762][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.24.02:762][101]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.24.02:763][101]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.24.02:764][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.24.02:774][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.24.02:805][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.24.02:832][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.24.02:833][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.24.02:834][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.24.02:861][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.24.02:865][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.10-07.24.02:893][102]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.11.10-07.24.35:712][391]LogSlate: Window 'Details' being destroyed
+[2021.11.10-07.24.57:196][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.10-07.25.14:607][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.10-07.26.02:802][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sewer_level_sp_pipe_s_c_05)
+[2021.11.10-07.26.39:253][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-07.26.39:306][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.11.10-07.26.39:432][958]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewerBB7B40EF4717887A4C44309FD981568B.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap'
+[2021.11.10-07.26.39:481][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer_BuiltData" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset" SILENT=true
+[2021.11.10-07.26.40:013][958]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer_BuiltData674EA40D42B508DCFC7E95B067BFF7D7.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset'
+[2021.11.10-07.26.40:033][958]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-07.26.40:033][958]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
+[2021.11.10-07.26.40:033][958]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.26.40:594][981]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.26.40:614][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.26.40:614][981]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:26:40 PM)
+[2021.11.10-07.26.40:614][981]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.26.40:638][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024734s)
+[2021.11.10-07.26.40:640][981]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.26.40:641][981]LogPlayLevel: PIE: World Init took: (0.002219s)
+[2021.11.10-07.26.40:641][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.027463s)
+[2021.11.10-07.26.40:671][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.10-07.26.40:672][981]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.26.40:672][981]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.26.40:672][981]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.26.40:673][981]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.26.40:673][981]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.26.40:675][981]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.26.40:675][981]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.26.40:693][981]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.26.40:694][981]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.26.40:694][981]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.26.40:694][981]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.26.40:694][981]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.26.40:695][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.26.40:695][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.26.40:715][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.26.40:715][981]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.26.40:715][981]LogInit: FAudioDevice initialized.
+[2021.11.10-07.26.40:715][981]LogAudio: Display: Audio Device (ID: 6) registered with world 'map01_sewer'.
+[2021.11.10-07.26.40:738][981]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.26.40:766][981]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.26.40
+[2021.11.10-07.26.40:766][981]LogWorld: Bringing up level for play took: 0.026376
+[2021.11.10-07.26.40:767][981]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.11.10-07.26.40:773][981]PIE: Server logged in
+[2021.11.10-07.26.40:775][981]PIE: Play in editor total start time 0.164 seconds.
+[2021.11.10-07.27.02:187][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.27.02:187][869]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.27.02:188][869]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.27.02:194][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.27.02:208][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.27.02:271][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.27.02:303][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.27.02:304][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.27.02:305][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.27.02:344][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.10-07.27.02:382][870]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.11.10-07.27.03:622][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-07.27.03:665][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.11.10-07.27.03:768][899]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer39F6D50448A7B3F8E96296B026DEFB0A.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap'
+[2021.11.10-07.27.03:780][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer_BuiltData" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset" SILENT=true
+[2021.11.10-07.27.04:143][899]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer_BuiltData6CE6BC264ABEC98641DCB8A201E8082B.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset'
+[2021.11.10-07.27.04:184][899]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-07.27.04:185][899]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
+[2021.11.10-07.27.04:185][899]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.27.05:852][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.10-07.27.12:381][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-07.27.12:408][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.11.10-07.27.12:481][131]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer2BB4DC0C4F6E5B4E4A5BAFB159BFDA96.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap'
+[2021.11.10-07.27.12:502][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer_BuiltData" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset" SILENT=true
+[2021.11.10-07.27.12:769][131]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer_BuiltData9DC2B11D442A9365BBEC5BB0CB432FAF.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset'
+[2021.11.10-07.27.12:785][131]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-07.27.12:785][131]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
+[2021.11.10-07.27.12:786][131]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.27.14:130][182]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.27.14:144][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.27.14:144][182]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:27:14 PM)
+[2021.11.10-07.27.14:145][182]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.27.14:173][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027912s)
+[2021.11.10-07.27.14:174][182]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.27.14:175][182]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2021.11.10-07.27.14:175][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.029909s)
+[2021.11.10-07.27.14:208][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.11.10-07.27.14:208][182]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.27.14:209][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.27.14:209][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.27.14:210][182]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.27.14:210][182]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.27.14:213][182]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.27.14:213][182]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.27.14:287][182]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.27.14:289][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.27.14:289][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.27.14:289][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.27.14:291][182]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.27.14:291][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.27.14:291][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.27.14:329][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.27.14:329][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.27.14:329][182]LogInit: FAudioDevice initialized.
+[2021.11.10-07.27.14:330][182]LogAudio: Display: Audio Device (ID: 7) registered with world 'map01_sewer'.
+[2021.11.10-07.27.14:342][182]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.27.14:350][182]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.27.14
+[2021.11.10-07.27.14:351][182]LogWorld: Bringing up level for play took: 0.007465
+[2021.11.10-07.27.14:351][182]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.11.10-07.27.14:355][182]PIE: Server logged in
+[2021.11.10-07.27.14:356][182]PIE: Play in editor total start time 0.213 seconds.
+[2021.11.10-07.27.52:340][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-07.27.52:384][741]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.11.10-07.27.52:455][741]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer37E62BA541A25EDF245616B8B5C6C486.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap'
+[2021.11.10-07.27.52:471][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer_BuiltData" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset" SILENT=true
+[2021.11.10-07.27.52:736][741]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer_BuiltData2DF37F2E4F020AE25ECE7E8BC1828D38.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset'
+[2021.11.10-07.27.52:782][741]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-07.27.52:783][741]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
+[2021.11.10-07.27.52:783][741]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.27.54:246][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.27.54:246][799]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.27.54:247][799]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.27.54:250][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.27.54:268][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.27.54:362][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.27.54:387][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.27.54:388][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.27.54:389][799]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.27.54:426][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.10-07.27.54:460][800]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.11.10-07.28.45:763][861]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Assets/Duck_Skeleton.Duck_Skeleton
+[2021.11.10-07.28.45:769][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.30.09:406][665]Cmd: TRANSACTION UNDO
+[2021.11.10-07.30.09:406][665]LogEditorTransaction: Undo Rotate Bone
+[2021.11.10-07.30.09:670][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.30.09:731][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.31.01:695][851]LogEditorFactories: Performing atomic reimport of [D:/Github/SuperMommyDuck_Project/sewer_assets/Duck.FBX]
+[2021.11.10-07.31.01:787][851]LogFbx: Loading FBX Scene from D:/Github/SuperMommyDuck_Project/sewer_assets/Duck.FBX
+[2021.11.10-07.31.01:920][851]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.10-07.31.01:973][851]LogFbx: Triangulating skeletal mesh Box001
+[2021.11.10-07.31.02:297][851]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.11.10-07.31.02:532][851]LogSkeletalMesh: Section 0: Material=0, 2134 triangles
+[2021.11.10-07.31.02:532][851]LogSkeletalMesh: Section 1: Material=1, 1046 triangles
+[2021.11.10-07.31.02:532][851]LogSkeletalMesh: Section 2: Material=2, 2128 triangles
+[2021.11.10-07.31.02:532][851]LogSkeletalMesh: Section 3: Material=3, 1728 triangles
+[2021.11.10-07.31.02:532][851]LogSkeletalMesh: Section 4: Material=4, 612 triangles
+[2021.11.10-07.31.02:532][851]LogSkeletalMesh: Section 5: Material=5, 36 triangles
+[2021.11.10-07.31.02:603][851]LogEditorFactories: -- imported successfully
+[2021.11.10-07.31.02:606][851]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.10-07.31.02:606][851]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.11.10-07.31.02:652][851]LogSkeletalMesh: Building Skeletal Mesh Duck...
+[2021.11.10-07.31.03:089][851]LogSkeletalMesh: Section 0: Material=0, 2134 triangles
+[2021.11.10-07.31.03:089][851]LogSkeletalMesh: Section 1: Material=1, 1046 triangles
+[2021.11.10-07.31.03:089][851]LogSkeletalMesh: Section 2: Material=2, 2128 triangles
+[2021.11.10-07.31.03:089][851]LogSkeletalMesh: Section 3: Material=3, 1728 triangles
+[2021.11.10-07.31.03:089][851]LogSkeletalMesh: Section 4: Material=4, 612 triangles
+[2021.11.10-07.31.03:089][851]LogSkeletalMesh: Section 5: Material=5, 36 triangles
+[2021.11.10-07.31.03:166][851]LogSkeletalMesh: Built Skeletal Mesh [0.51s] /Game/Assets/Duck.Duck
+[2021.11.10-07.31.24:989][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Duck" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset" SILENT=true
+[2021.11.10-07.31.25:031][368]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Duck7405BF254517E15008925FA518AB5264.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Assets/Duck.uasset'
+[2021.11.10-07.31.25:092][368]AssetCheck: New page: Asset Save: Duck
+[2021.11.10-07.31.25:092][368]LogContentValidation: Display: Validating SkeletalMesh /Game/Assets/Duck.Duck
+[2021.11.10-07.33.05:138][779]LogSlate: Window 'Duck_Skeleton' being destroyed
+[2021.11.10-07.33.05:150][779]LogSlate: Window 'Duck_Skeleton' being destroyed
+[2021.11.10-07.33.05:175][779]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.33.05:175][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.33.06:837][779]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.33.06:837][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.33.06:956][779]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.33.06:956][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.33.13:889][865]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.33.13:900][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.33.13:901][865]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:33:13 PM)
+[2021.11.10-07.33.13:901][865]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.33.13:924][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023195s)
+[2021.11.10-07.33.13:927][865]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.33.13:928][865]LogPlayLevel: PIE: World Init took: (0.003592s)
+[2021.11.10-07.33.13:928][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.027011s)
+[2021.11.10-07.33.13:958][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.11.10-07.33.13:965][865]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.33.13:965][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.33.13:965][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.33.13:966][865]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.33.13:966][865]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.33.13:999][865]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.33.13:999][865]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.33.14:086][865]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.33.14:087][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.33.14:087][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.33.14:087][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.33.14:088][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.33.14:089][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.33.14:089][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.33.14:123][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.33.14:123][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.33.14:123][865]LogInit: FAudioDevice initialized.
+[2021.11.10-07.33.14:123][865]LogAudio: Display: Audio Device (ID: 8) registered with world 'map01_sewer'.
+[2021.11.10-07.33.14:131][865]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.33.14:146][865]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.33.14
+[2021.11.10-07.33.14:147][865]LogWorld: Bringing up level for play took: 0.014513
+[2021.11.10-07.33.14:147][865]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.11.10-07.33.14:153][865]PIE: Server logged in
+[2021.11.10-07.33.14:154][865]PIE: Play in editor total start time 0.256 seconds.
+[2021.11.10-07.34.11:591][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.34.11:592][814]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.34.11:595][814]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.34.11:599][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.34.11:654][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.34.11:717][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.34.11:736][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.34.11:737][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.34.11:738][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.34.11:770][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.34.11:774][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.11.10-07.34.11:814][815]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.11.10-07.38.15:997][803]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.10-07.39.03:419][803]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.11.10-07.39.03:473][803]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.11.10-07.39.03:498][803]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.11.10-07.39.04:867][843]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2021.11.10-07.39.04:991][843]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.11.10-07.39.06:740][892]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprint/NewAnimBlueprint.NewAnimBlueprint
+[2021.11.10-07.39.06:753][892]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.10-07.39.29:779][605]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> DuckAnimationBP
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.DuckAnimationBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.SKEL_DuckAnimationBP_C:AnimGraph' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.SKEL_DuckAnimationBP_C' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.DuckAnimationBP_C:AnimGraph' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.DuckAnimationBP_C' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.DuckAnimationBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.29:973][605]LogMetaData: Removing '/Game/Blueprint/DuckAnimationBP.DuckAnimationBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Blueprint/NewAnimBlueprint.PackageMetaData'
+[2021.11.10-07.39.30:055][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/DuckAnimationBP" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/DuckAnimationBP.uasset" SILENT=true
+[2021.11.10-07.39.30:098][605]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/DuckAnimationBPA219C9BA4D834B7AE93CB19F7E234CEA.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/DuckAnimationBP.uasset'
+[2021.11.10-07.39.30:276][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.10-07.39.30:316][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.10-07.39.30:348][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.11.10-07.39.30:481][605]AssetCheck: New page: Asset Save: DuckAnimationBP
+[2021.11.10-07.39.30:481][605]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprint/DuckAnimationBP.DuckAnimationBP
+[2021.11.10-07.40.06:448][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.10-07.40.06:450][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/map01_sewer' took 0.034
+[2021.11.10-07.40.06:467][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material__133] ([1] browsable assets)...
+[2021.11.10-07.40.06:483][ 92]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material__133.Material__133]
+[2021.11.10-07.40.06:483][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material__133]
+[2021.11.10-07.40.06:489][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Material__133_Auto1D61F4600407DE6D36349B1A5A42D7B69.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Material__133_Auto1.uasset'
+[2021.11.10-07.40.06:528][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material__134] ([1] browsable assets)...
+[2021.11.10-07.40.06:557][ 92]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material__134.Material__134]
+[2021.11.10-07.40.06:557][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material__134]
+[2021.11.10-07.40.06:565][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Material__134_Auto151828D514022CF9C58EA40BF0070C778.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Material__134_Auto1.uasset'
+[2021.11.10-07.40.06:566][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material__146] ([1] browsable assets)...
+[2021.11.10-07.40.06:584][ 92]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material__146.Material__146]
+[2021.11.10-07.40.06:584][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material__146]
+[2021.11.10-07.40.06:592][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Material__146_Auto14475036945E23FD5238E8BB3EF0787A1.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Material__146_Auto1.uasset'
+[2021.11.10-07.40.06:592][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material__27] ([1] browsable assets)...
+[2021.11.10-07.40.06:610][ 92]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material__27.Material__27]
+[2021.11.10-07.40.06:610][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material__27]
+[2021.11.10-07.40.06:616][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Material__27_Auto1EF3FCB3D441511FBE7735B9B8A6AF037.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Material__27_Auto1.uasset'
+[2021.11.10-07.40.06:617][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material__28] ([1] browsable assets)...
+[2021.11.10-07.40.06:634][ 92]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material__28.Material__28]
+[2021.11.10-07.40.06:634][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material__28]
+[2021.11.10-07.40.06:687][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Material__28_Auto1D7BB0C0C47D4148B38548FB8DF9D3DA1.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Material__28_Auto1.uasset'
+[2021.11.10-07.40.06:689][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material__75] ([1] browsable assets)...
+[2021.11.10-07.40.06:726][ 92]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material__75.Material__75]
+[2021.11.10-07.40.06:726][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material__75]
+[2021.11.10-07.40.06:737][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Material__75_Auto1BC01A40A465B9A808C1EF8B70BCCA0F3.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Material__75_Auto1.uasset'
+[2021.11.10-07.40.06:738][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Duck_Skeleton] ([1] browsable assets)...
+[2021.11.10-07.40.06:738][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Duck_Skeleton]
+[2021.11.10-07.40.06:739][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Duck_Skeleton_Auto10F330CBB4F5C69BCDA8E9BAEFE6610A5.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Duck_Skeleton_Auto1.uasset'
+[2021.11.10-07.40.06:740][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Duck_PhysicsAsset] ([1] browsable assets)...
+[2021.11.10-07.40.06:759][ 92]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Assets/Duck_PhysicsAsset.Duck_PhysicsAsset]
+[2021.11.10-07.40.06:759][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Duck_PhysicsAsset]
+[2021.11.10-07.40.06:767][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Duck_PhysicsAsset_Auto13951A24A4C21E1BB72D3328C7C7DB3A2.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Assets/Duck_PhysicsAsset_Auto1.uasset'
+[2021.11.10-07.40.06:789][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/DuckAnimationBP] ([1] browsable assets)...
+[2021.11.10-07.40.06:809][ 92]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprint/DuckAnimationBP.DuckAnimationBP]
+[2021.11.10-07.40.06:809][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/DuckAnimationBP]
+[2021.11.10-07.40.06:819][ 92]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/DuckAnimationBP_Auto10221D6F64D4C83E16715DEA38C3BC366.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/Autosaves/Game/Blueprint/DuckAnimationBP_Auto1.uasset'
+[2021.11.10-07.40.06:820][ 92]LogFileHelpers: Auto-saving content packages took 0.370
+[2021.11.10-07.42.47:958][278]BlueprintLog: New page: Compile DuckAnimationBP
+[2021.11.10-07.42.48:397][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.11.10-07.43.02:172][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-07.43.02:202][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.11.10-07.43.02:269][720]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer61F4285147E3EDC3E2F2EA8D6D907D2C.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap'
+[2021.11.10-07.43.02:284][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer_BuiltData" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset" SILENT=true
+[2021.11.10-07.43.02:558][720]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer_BuiltData416F8C1E4795A4B191087E91EEBE485C.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset'
+[2021.11.10-07.43.02:596][720]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-07.43.02:596][720]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
+[2021.11.10-07.43.02:596][720]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.11.10-07.47.02:536][972]BlueprintLog: New page: Compile DuckAnimationBP
+[2021.11.10-07.47.02:588][972]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.02:588][972]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to jump  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.02:633][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.10-07.47.56:597][721]BlueprintLog: New page: Compile DuckAnimationBP
+[2021.11.10-07.47.56:606][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:607][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] Idle to jump  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:607][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] walk to jump  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:607][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] jump to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:608][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] walk to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:609][721]LogBlueprint: Warning: [AssetLog] D:\Github\SuperMommyDuck_Project\SuperMommyDuck_Unreal\Content\Blueprint\DuckAnimationBP.uasset: [Compiler] jump to walk  will never be taken, please connect something to  Can Enter Transition
+[2021.11.10-07.47.56:682][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.11.10-07.51.30:062][120]LogSlate: Window 'DuckAnimationBP' being destroyed
+[2021.11.10-07.51.30:078][120]LogSlate: Window 'DuckAnimationBP' being destroyed
+[2021.11.10-07.51.30:126][120]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.51.30:127][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.51.30:147][120]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.51.30:148][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.51.30:449][120]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.51.30:449][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.51.34:047][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.11.10-07.51.36:082][221]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-07.51.36:219][221]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprint/DuckAnimationBP.DuckAnimationBP
+[2021.11.10-07.51.42:529][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.11.10-07.51.42:850][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.10-07.51.42:873][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.10-07.52.13:425][351]LogSlate: Window 'New Level' being destroyed
+[2021.11.10-07.52.20:462][618]LogObjectTools: Deleting 1 worlds: /Game/Map/test.test
+[2021.11.10-07.52.20:463][618]LogObjectTools: Currently 11 active worlds: /Game/Map/map01_sewer.map01_sewer, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_7, /Engine/Transient.World_9, /Engine/Transient.World_12, /Engine/Transient.World_14, /Engine/Transient.World_21, /Engine/Transient.World_25
+[2021.11.10-07.52.20:601][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.11.10-07.52.22:061][618]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-07.52.22:159][618]LogWorld: UWorld::CleanupWorld for test, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.52.22:159][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.52.22:462][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.11.10-07.52.22:546][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.10-07.52.22:571][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.11.10-07.52.22:605][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.10-07.53.13:076][537]LogRenderer: Reallocating scene render targets to support 1540x828 Format 10 NumSamples 1 (Frame:32918).
+[2021.11.10-07.53.13:569][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sewer_level_sp_pPlane16)
+[2021.11.10-07.53.14:721][597]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-07.53.14:728][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-07.53.14:729][597]PIE: New page: PIE session: map01_sewer (Nov 10, 2021, 9:53:14 PM)
+[2021.11.10-07.53.14:729][597]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.53.14:764][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035268s)
+[2021.11.10-07.53.14:766][597]LogAIModule: Creating AISystem for world map01_sewer
+[2021.11.10-07.53.14:766][597]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2021.11.10-07.53.14:766][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.037617s)
+[2021.11.10-07.53.14:796][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.10-07.53.14:801][597]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-07.53.14:802][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-07.53.14:802][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-07.53.14:803][597]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.10-07.53.14:803][597]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-07.53.14:849][597]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-07.53.14:850][597]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-07.53.14:920][597]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.11.10-07.53.14:921][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-07.53.14:921][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-07.53.14:921][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-07.53.14:922][597]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-07.53.14:922][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-07.53.14:922][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-07.53.14:949][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-07.53.14:949][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-07.53.14:949][597]LogInit: FAudioDevice initialized.
+[2021.11.10-07.53.14:949][597]LogAudio: Display: Audio Device (ID: 9) registered with world 'map01_sewer'.
+[2021.11.10-07.53.14:957][597]LogLoad: Game class is 'GameMode_CC_C'
+[2021.11.10-07.53.14:966][597]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.11.10-14.53.14
+[2021.11.10-07.53.14:967][597]LogWorld: Bringing up level for play took: 0.008292
+[2021.11.10-07.53.14:967][597]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.11.10-07.53.14:970][597]PIE: Server logged in
+[2021.11.10-07.53.14:971][597]PIE: Play in editor total start time 0.244 seconds.
+[2021.11.10-07.53.53:228][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.53.53:228][112]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.11.10-07.53.53:229][112]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-07.53.53:232][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.53.53:253][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-07.53.53:298][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-07.53.53:317][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-07.53.53:318][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.53.53:319][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-07.53.53:347][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-07.53.53:351][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.11.10-07.53.53:361][113]LogPlayLevel: Display: Destroying online subsystem :Context_34
