@@ -5479,3 +5479,201 @@ Sky Sphere
 [2021.12.13-18.12.37:631][278]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.13-18.12.37:631][278]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
 [2021.12.13-18.12.37:631][278]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.12.13-18.14.05:588][551]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.12.13-18.14.39:041][649]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.12.13-18.15.02:109][716]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.13-18.15.02:109][716]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.13-18.15.11:935][998]Cmd: DUPLICATE
+[2021.12.13-18.15.11:935][998]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.15.24:180][340]Cmd: DUPLICATE
+[2021.12.13-18.15.24:180][340]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.15.38:172][689]Cmd: DUPLICATE
+[2021.12.13-18.15.38:172][689]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.15.47:157][932]Cmd: DUPLICATE
+[2021.12.13-18.15.47:158][932]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.15.56:771][192]Cmd: DUPLICATE
+[2021.12.13-18.15.56:771][192]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.16.09:892][522]Cmd: DUPLICATE
+[2021.12.13-18.16.09:892][522]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.16.18:587][768]Cmd: DUPLICATE
+[2021.12.13-18.16.18:587][768]Cmd: ACTOR DUPLICATE
+[2021.12.13-18.16.41:859][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sewer_level_sp_Sphere9)
+[2021.12.13-18.17.09:717][973]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.12.13-18.17.12:370][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.13-18.17.12:432][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.13-18.17.12:433][ 18]PIE: New page: PIE session: map01_sewer (Dec 14, 2021, 8:17:12 AM)
+[2021.12.13-18.17.12:517][ 18]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_map01_sewer
+[2021.12.13-18.17.12:640][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123177s)
+[2021.12.13-18.17.12:651][ 18]LogAIModule: Creating AISystem for world map01_sewer
+[2021.12.13-18.17.12:652][ 18]LogPlayLevel: PIE: World Init took: (0.011681s)
+[2021.12.13-18.17.12:653][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/map01_sewer.map01_sewer to /Game/Map/UEDPIE_0_map01_sewer.map01_sewer (0.136309s)
+[2021.12.13-18.17.12:900][ 18]LogUObjectHash: Compacting FUObjectHashTables data took  20.34ms
+[2021.12.13-18.17.12:952][ 18]LogAudio: Display: Creating Audio Device:                 Id: 74, Scope: Unique, Realtime: True
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.13-18.17.12:952][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.13-18.17.12:953][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.13-18.17.12:954][ 18]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.13-18.17.12:954][ 18]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.13-18.17.12:988][ 18]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.13-18.17.12:988][ 18]LogAudioMixer: Display: 1: FrontRight
+[2021.12.13-18.17.13:105][ 18]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.12.13-18.17.13:108][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.13-18.17.13:108][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.13-18.17.13:108][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.13-18.17.13:112][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.13-18.17.13:112][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.13-18.17.13:112][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.13-18.17.13:199][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.13-18.17.13:199][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.13-18.17.13:200][ 18]LogInit: FAudioDevice initialized.
+[2021.12.13-18.17.13:200][ 18]LogAudio: Display: Audio Device (ID: 74) registered with world 'map01_sewer'.
+[2021.12.13-18.17.13:254][ 18]LogLoad: Game class is 'GameMode_CC_C'
+[2021.12.13-18.17.13:308][ 18]LogWorld: Bringing World /Game/Map/UEDPIE_0_map01_sewer.map01_sewer up for play (max tick rate 60) at 2021.12.14-01.17.13
+[2021.12.13-18.17.13:309][ 18]LogWorld: Bringing up level for play took: 0.050362
+[2021.12.13-18.17.13:310][ 18]LogOnline: OSS: Creating online subsystem instance for: :Context_97
+[2021.12.13-18.17.13:329][ 18]PIE: Server logged in
+[2021.12.13-18.17.13:332][ 18]PIE: Play in editor total start time 0.905 seconds.
+[2021.12.13-18.18.00:723][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-18.18.00:724][224]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_map01_sewer
+[2021.12.13-18.18.00:727][224]LogWorld: UWorld::CleanupWorld for map01_sewer, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-18.18.00:735][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.18.00:774][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.13-18.18.00:857][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.18.01:127][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.13-18.18.01:128][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-18.18.01:133][224]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-18.18.01:255][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.13-18.18.01:290][224]LogUObjectHash: Compacting FUObjectHashTables data took  19.88ms
+[2021.12.13-18.18.01:610][225]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2021.12.13-18.18.03:155][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.13-18.18.03:301][246]LogUObjectHash: Compacting FUObjectHashTables data took  15.06ms
+[2021.12.13-18.18.04:015][246]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer868BA2184095E305EA44E1B6905E621F.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer.umap'
+[2021.12.13-18.18.04:095][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/map01_sewer_BuiltData" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset" SILENT=true
+[2021.12.13-18.18.05:285][246]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/map01_sewer_BuiltData2927578A4846D1026A5F598E28626A4B.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Map/map01_sewer_BuiltData.uasset'
+[2021.12.13-18.18.05:331][246]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.13-18.18.05:332][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/map01_sewer_BuiltData.map01_sewer_BuiltData
+[2021.12.13-18.18.05:332][246]LogContentValidation: Display: Validating World /Game/Map/map01_sewer.map01_sewer
+[2021.12.13-18.18.06:761][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.13-18.18.09:356][279]LogSlate: Window 'Save Content' being destroyed
+[2021.12.13-18.18.09:422][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/CharacterClass" FILE="../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset" SILENT=true
+[2021.12.13-18.18.10:220][279]LogSavePackage: Moving '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Saved/CharacterClassCA5C2D3046C943BB5E61FFB614B9D86A.tmp' to '../../../../Github/SuperMommyDuck_Project/SuperMommyDuck_Unreal/Content/Blueprint/CharacterClass.uasset'
+[2021.12.13-18.18.12:523][279]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.13-18.18.12:524][279]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.12.13-18.18.12:524][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.13-18.18.30:465][279]LogSlate: Window 'Project Settings' being destroyed
+[2021.12.13-18.18.43:962][279]LogSlate: Window 'SuperMommyDuck - Unreal Editor' being destroyed
+[2021.12.13-18.19.04:862][279]AssetCheck: New page: Asset Save: CharacterClass
+[2021.12.13-18.19.04:862][279]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/CharacterClass.CharacterClass
+[2021.12.13-18.19.04:916][280]Cmd: QUIT_EDITOR
+[2021.12.13-18.19.05:002][280]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.13-18.19.06:580][280]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.13-18.19.10:514][280]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.13-18.19.10:515][280]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.13-18.19.10:515][280]LogAudio: Display: Audio Device unregistered from world 'map01_sewer'.
+[2021.12.13-18.19.10:585][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-18.19.11:279][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.13-18.19.13:983][280]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.13-18.19.14:012][280]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.13-18.19.15:739][280]LogExit: Preparing to exit.
+[2021.12.13-18.19.21:481][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56300] Windows
+[2021.12.13-18.19.21:482][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56400] Default__DeviceProfile
+[2021.12.13-18.19.21:482][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12D00] WindowsNoEditor
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55200] WindowsServer
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096B13D00] WindowsClient
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096B54200] IOS
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10B00] iPadAir
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56F00] iPadAir2
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096ABA200] IPadPro
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096ABA300] iPadAir3
+[2021.12.13-18.19.21:483][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11900] iPadAir4
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096ABBA00] iPadMini2
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10300] iPadMini3
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096AB9700] iPadMini4
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12800] iPadMini5
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC5B00] iPhone6
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC5C00] iPodTouch6
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56000] iPhone7
+[2021.12.13-18.19.21:484][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55300] iPodTouch7
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC6C00] iPhone5S
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56900] iPhone6Plus
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC5F00] iPhone6S
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57200] iPhone6SPlus
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC5900] iPhone7Plus
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55000] iPhoneSE
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC7100] iPhone8
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55500] iPhone8Plus
+[2021.12.13-18.19.21:485][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC6A00] iPhoneX
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096B54300] iPhoneXS
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC6700] iPhoneXSMax
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55900] iPhoneXR
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096B13C00] iPhone11
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC4C00] iPhone11Pro
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12E00] iPhone11ProMax
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC7800] iPhoneSE2
+[2021.12.13-18.19.21:486][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11A00] iPhone12Mini
+[2021.12.13-18.19.21:822][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC6500] iPhone12
+[2021.12.13-18.19.21:822][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10D00] iPhone12Pro
+[2021.12.13-18.19.21:822][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC7900] iPhone12ProMax
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11100] iPadPro105
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC4A00] iPadPro129
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B13600] iPadPro97
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55E00] iPadPro2_129
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12100] iPad5
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57100] iPad6
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12200] iPad7
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55100] iPad8
+[2021.12.13-18.19.21:823][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10800] iPadPro11
+[2021.12.13-18.19.21:824][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56B00] iPadPro2_11
+[2021.12.13-18.19.21:824][280]LogDeviceProfile: Device profile begin destroy: [0000011096B13200] iPadPro3_129
+[2021.12.13-18.19.21:824][280]LogDeviceProfile: Device profile begin destroy: [0000011096B54D00] iPadPro4_129
+[2021.12.13-18.19.21:824][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11C00] AppleTV
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56200] AppleTV4K
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12C00] TVOS
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57A00] Mac
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11D00] MacClient
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55D00] MacNoEditor
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12700] MacServer
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56C00] Linux
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10500] LinuxAArch64
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56800] LinuxNoEditor
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11000] LinuxAArch64NoEditor
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56D00] LinuxClient
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11200] LinuxAArch64Client
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57D00] LinuxServer
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B13000] LinuxAArch64Server
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57800] Android
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B13900] Android_Low
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57600] Android_Mid
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10200] Android_High
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55600] Android_Default
+[2021.12.13-18.19.21:825][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10E00] Android_Adreno4xx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B55400] Android_Adreno5xx_Low
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11F00] Android_Adreno5xx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B54C00] Android_Adreno6xx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B10700] Android_Adreno6xx_Vulkan
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57400] Android_Mali_T6xx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B11300] Android_Mali_T7xx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B56700] Android_Mali_T8xx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B12300] Android_Mali_G71
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096B57500] Android_Mali_G72
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096ABAB00] Android_Mali_G72_Vulkan
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC4900] Android_Mali_G76
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AB8500] Android_Mali_G76_Vulkan
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC5A00] Android_Mali_G77
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096ABA800] Android_Mali_G77_Vulkan
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC7B00] Android_Vulkan_SM5
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AB8600] Android_PowerVR_G6xxx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC6900] Android_PowerVR_GT7xxx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AB8400] Android_PowerVR_GE8xxx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC4B00] Android_PowerVR_GM9xxx
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AB9400] Android_PowerVR_GM9xxx_Vulkan
+[2021.12.13-18.19.21:826][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC6800] Android_TegraK1
+[2021.12.13-18.19.21:827][280]LogDeviceProfile: Device profile begin destroy: [0000011096ABB300] Android_Unknown_Vulkan
+[2021.12.13-18.19.21:827][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC7200] Lumin
+[2021.12.13-18.19.22:506][280]LogDeviceProfile: Device profile begin destroy: [0000011096AB9A00] Lumin_Desktop
+[2021.12.13-18.19.22:506][280]LogDeviceProfile: Device profile begin destroy: [0000011096AC5400] HoloLens
