@@ -1,0 +1,2 @@
+supermommyduck-windownoeditor.pak filter=lfs diff=lfs merge=lfs -text
+supermommyduck-windowsnoeditor.pak filter=lfs diff=lfs merge=lfs -text
